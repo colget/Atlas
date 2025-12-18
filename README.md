@@ -73,16 +73,6 @@ These files are provided as demonstrations of what the simulation produces.
 
 ---
 
-## Roadmap / TODO
-
-* Improve documentation and inline comments
-* Add configurable parameters (mass, velocity, timestep, etc.)
-* Separate simulation logic from visualization
-* Add `requirements.txt`
-* Add license
-* Clean release process for binaries
-
----
 
 ## License
 
